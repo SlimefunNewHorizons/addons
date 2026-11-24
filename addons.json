@@ -224,6 +224,20 @@
    "version": "0.1.0"
   },
   {
+   "name": "DrakesBio",
+   "blobProject": "DrakesBio",
+   "repo": "Drakes-Suites",
+   "branch": "26.x",
+   "module": "drakes-bio",
+   "channel": "Release",
+   "minecraft": "26.2",
+   "author": "SlimefunNewHorizons",
+   "status": "pending",
+   "category": "Drakes Suite",
+   "description": "DrakesBio: drakes suite addon for Slimefun 6 on Minecraft 26.2.",
+   "version": ""
+  },
+  {
    "name": "DrakesBosses",
    "blobProject": "DrakesBosses",
    "repo": "DrakesBosses",
@@ -250,6 +264,20 @@
    "version": "1.0.0"
   },
   {
+   "name": "DrakesCombat",
+   "blobProject": "DrakesCombat",
+   "repo": "Drakes-Suites",
+   "branch": "26.x",
+   "module": "drakes-combat",
+   "channel": "Release",
+   "minecraft": "26.2",
+   "author": "SlimefunNewHorizons",
+   "status": "pending",
+   "category": "Drakes Suite",
+   "description": "DrakesCombat: drakes suite addon for Slimefun 6 on Minecraft 26.2.",
+   "version": ""
+  },
+  {
    "name": "DrakesCore",
    "blobProject": "DrakesCore",
    "repo": "DrakesCore",
@@ -274,6 +302,34 @@
    "category": "Drakes Suite",
    "description": "DrakesCrates: drakes suite addon for Slimefun 6 on Minecraft 26.2.",
    "version": "2.0"
+  },
+  {
+   "name": "DrakesGenerators",
+   "blobProject": "DrakesGenerators",
+   "repo": "Drakes-Suites",
+   "branch": "26.x",
+   "module": "drakes-generators",
+   "channel": "Release",
+   "minecraft": "26.2",
+   "author": "SlimefunNewHorizons",
+   "status": "pending",
+   "category": "Drakes Suite",
+   "description": "DrakesGenerators: drakes suite addon for Slimefun 6 on Minecraft 26.2.",
+   "version": ""
+  },
+  {
+   "name": "DrakesMagic",
+   "blobProject": "DrakesMagic",
+   "repo": "Drakes-Suites",
+   "branch": "26.x",
+   "module": "drakes-magic",
+   "channel": "Release",
+   "minecraft": "26.2",
+   "author": "SlimefunNewHorizons",
+   "status": "pending",
+   "category": "Drakes Suite",
+   "description": "DrakesMagic: drakes suite addon for Slimefun 6 on Minecraft 26.2.",
+   "version": ""
   },
   {
    "name": "DrakesMultiverse",
@@ -328,6 +384,20 @@
    "version": "1.2.0"
   },
   {
+   "name": "DrakesTech",
+   "blobProject": "DrakesTech",
+   "repo": "Drakes-Suites",
+   "branch": "26.x",
+   "module": "drakes-tech",
+   "channel": "Release",
+   "minecraft": "26.2",
+   "author": "SlimefunNewHorizons",
+   "status": "pending",
+   "category": "Drakes Suite",
+   "description": "DrakesTech: drakes suite addon for Slimefun 6 on Minecraft 26.2.",
+   "version": ""
+  },
+  {
    "name": "DrakesTranslate",
    "blobProject": "DrakesTranslate",
    "repo": "DrakesTranslate",
@@ -339,6 +409,20 @@
    "category": "Drakes Suite",
    "description": "DrakesTranslate: drakes suite addon for Slimefun 6 on Minecraft 26.2.",
    "version": "1.0.0"
+  },
+  {
+   "name": "DrakesUtility",
+   "blobProject": "DrakesUtility",
+   "repo": "Drakes-Suites",
+   "branch": "26.x",
+   "module": "drakes-utility",
+   "channel": "Release",
+   "minecraft": "26.2",
+   "author": "SlimefunNewHorizons",
+   "status": "pending",
+   "category": "Drakes Suite",
+   "description": "DrakesUtility: drakes suite addon for Slimefun 6 on Minecraft 26.2.",
+   "version": ""
   },
   {
    "name": "DrakesVIPPlusPlus",
@@ -638,6 +722,19 @@
    "category": "Farming, Food & Nature",
    "description": "An addon for Slimefun that adds resource chickens, rewritten by ybw0014.",
    "version": "1.1.DEV"
+  },
+  {
+   "name": "GeyserHeads",
+   "blobProject": "GeyserHeads",
+   "repo": "Geyser-Slimefun-Heads-drake",
+   "branch": "port-26x",
+   "channel": "Release",
+   "minecraft": "26.2",
+   "author": "lz5509",
+   "status": "published",
+   "category": "Utilities & Tweaks",
+   "description": "Bedrock players see the custom Slimefun heads correctly through Geyser. Rebuilt for Slimefun 6 on Minecraft 26.2.",
+   "version": "1.2"
   },
   {
    "name": "GlobiaMachines",
@@ -1405,90 +1502,6 @@
    "category": "Utilities & Tweaks",
    "description": "WorldEditSlimefun: utilities and tweaks addon for Slimefun 6 on Minecraft 26.2.",
    "version": "UNOFFICIAL"
-  },
-  {
-   "name": "DrakesBio",
-   "blobProject": "DrakesBio",
-   "repo": "Drakes-Suites",
-   "branch": "26.x",
-   "module": "drakes-bio",
-   "channel": "Release",
-   "minecraft": "26.2",
-   "author": "SlimefunNewHorizons",
-   "status": "pending",
-   "category": "Drakes Suite",
-   "description": "DrakesBio: drakes suite addon for Slimefun 6 on Minecraft 26.2.",
-   "version": ""
-  },
-  {
-   "name": "DrakesCombat",
-   "blobProject": "DrakesCombat",
-   "repo": "Drakes-Suites",
-   "branch": "26.x",
-   "module": "drakes-combat",
-   "channel": "Release",
-   "minecraft": "26.2",
-   "author": "SlimefunNewHorizons",
-   "status": "pending",
-   "category": "Drakes Suite",
-   "description": "DrakesCombat: drakes suite addon for Slimefun 6 on Minecraft 26.2.",
-   "version": ""
-  },
-  {
-   "name": "DrakesGenerators",
-   "blobProject": "DrakesGenerators",
-   "repo": "Drakes-Suites",
-   "branch": "26.x",
-   "module": "drakes-generators",
-   "channel": "Release",
-   "minecraft": "26.2",
-   "author": "SlimefunNewHorizons",
-   "status": "pending",
-   "category": "Drakes Suite",
-   "description": "DrakesGenerators: drakes suite addon for Slimefun 6 on Minecraft 26.2.",
-   "version": ""
-  },
-  {
-   "name": "DrakesMagic",
-   "blobProject": "DrakesMagic",
-   "repo": "Drakes-Suites",
-   "branch": "26.x",
-   "module": "drakes-magic",
-   "channel": "Release",
-   "minecraft": "26.2",
-   "author": "SlimefunNewHorizons",
-   "status": "pending",
-   "category": "Drakes Suite",
-   "description": "DrakesMagic: drakes suite addon for Slimefun 6 on Minecraft 26.2.",
-   "version": ""
-  },
-  {
-   "name": "DrakesTech",
-   "blobProject": "DrakesTech",
-   "repo": "Drakes-Suites",
-   "branch": "26.x",
-   "module": "drakes-tech",
-   "channel": "Release",
-   "minecraft": "26.2",
-   "author": "SlimefunNewHorizons",
-   "status": "pending",
-   "category": "Drakes Suite",
-   "description": "DrakesTech: drakes suite addon for Slimefun 6 on Minecraft 26.2.",
-   "version": ""
-  },
-  {
-   "name": "DrakesUtility",
-   "blobProject": "DrakesUtility",
-   "repo": "Drakes-Suites",
-   "branch": "26.x",
-   "module": "drakes-utility",
-   "channel": "Release",
-   "minecraft": "26.2",
-   "author": "SlimefunNewHorizons",
-   "status": "pending",
-   "category": "Drakes Suite",
-   "description": "DrakesUtility: drakes suite addon for Slimefun 6 on Minecraft 26.2.",
-   "version": ""
   }
  ]
 }
