@@ -5,6 +5,7 @@ Catalog of every addon DrakesCraft Labs maintains and runs on Minecraft 26.2 tog
 - **All addons on one page:** https://slimefunnewhorizons.github.io/addons/
 - **Mirror with ABI gate and history:** https://pack.drakescraft.cl/builds/
 - **Maven dependencies:** https://maven.drakescraft.cl
+- **Upload API (per-user tokens):** [docs/API.md](docs/API.md)
 
 `addons.json` is the single source of truth. Each entry points to the addon's own repository, which stays independent
 (history, issues and original authorship are kept). Builds are published to a Blob Builds project, one project per addon,
