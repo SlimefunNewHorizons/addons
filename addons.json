@@ -7,1188 +7,1404 @@
    "blobProject": "AdvancedTech",
    "repo": "AdvancedTech-drake",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "pranavverma",
-   "status": "published"
+   "status": "published",
+   "category": "Machines & Energy",
+   "description": "A Addon to add Exiting New Machines to SlimeFun.",
+   "version": "1.0.0"
   },
   {
    "name": "AlchimiaVitae",
    "blobProject": "AlchimiaVitae",
    "repo": "AlchimiaVitae-drake",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "Apeiros-46B",
-   "status": "published"
+   "status": "published",
+   "category": "Magic & Alchemy",
+   "description": "Slimefun addon that adds alchemy, herbalism, and a little magic.",
+   "version": "1.1.1"
   },
   {
    "name": "AxGraves",
    "blobProject": "AxGraves",
    "repo": "AxGraves-Drakes",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "Chagui68",
-   "status": "published"
+   "status": "published",
+   "category": "Utilities & Tweaks",
+   "description": "AxGraves: utilities and tweaks addon for Slimefun 6 on Minecraft 26.2.",
+   "version": "1.32.1-Drake.1"
   },
   {
    "name": "BetterChests",
    "blobProject": "BetterChests-Drake",
    "repo": "SfBetterChests-drake",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "mmmjjkx",
-   "status": "published"
+   "status": "published",
+   "category": "Storage & Logistics",
+   "description": "A plugin that adds more chests to the game.",
+   "version": "Dev - ?"
   },
   {
    "name": "BetterReactor",
    "blobProject": "BetterReactor",
    "repo": "Slimefun6",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "CAPS123987",
-   "status": "published"
+   "status": "published",
+   "category": "Machines & Energy",
+   "description": "Slimefun4-Addon that adds more realistic reactor.",
+   "version": "1.3.0"
   },
   {
    "name": "BreweryX",
    "blobProject": "BreweryX-Drake",
    "repo": "BreweryX-Drake",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "",
-   "status": "published"
+   "status": "published",
+   "category": "Farming, Food & Nature",
+   "description": "BreweryX: farming, food and nature addon for Slimefun 6 on Minecraft 26.2.",
+   "version": "3.7.0"
   },
   {
    "name": "Bump",
    "blobProject": "Bump-Drake",
    "repo": "Bump",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "",
-   "status": "published"
+   "status": "published",
+   "category": "Storage & Logistics",
+   "description": "Bump: storage and logistics addon for Slimefun 6 on Minecraft 26.2.",
+   "version": "UNOFFICIAL"
   },
   {
    "name": "ChestTerminal",
    "blobProject": "ChestTerminal",
    "repo": "ChestTerminal-drake",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "TheBusyBiscuit",
-   "status": "published"
+   "status": "published",
+   "category": "Storage & Logistics",
+   "description": "ChestTerminal: storage and logistics addon for Slimefun 6 on Minecraft 26.2.",
+   "version": "1.21-Drake-SNAPSHOT"
   },
   {
    "name": "ColoredEnderChests",
    "blobProject": "ColoredEnderChests",
    "repo": "ColoredEnderChests-drake",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "TheBusyBiscuit",
-   "status": "published"
+   "status": "published",
+   "category": "Storage & Logistics",
+   "description": "ColoredEnderChests: storage and logistics addon for Slimefun 6 on Minecraft 26.2.",
+   "version": "1.20.6-Drake-SNAPSHOT"
   },
   {
    "name": "CompressionCraft",
    "blobProject": "CompressionCraft",
    "repo": "CompressionCraft-drake",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "jasperchasetoq",
-   "status": "published"
+   "status": "published",
+   "category": "Storage & Logistics",
+   "description": "CompressionCraft: storage and logistics addon for Slimefun 6 on Minecraft 26.2.",
+   "version": "UNOFFICIAL"
   },
   {
    "name": "Coronalis",
    "blobProject": "Coronalis",
    "repo": "Coronalis-drake",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "JackStar6677-1",
-   "status": "published"
+   "status": "published",
+   "category": "Utilities & Tweaks",
+   "description": "Coronalis: utilities and tweaks addon for Slimefun 6 on Minecraft 26.2.",
+   "version": "UNOFFICIAL"
   },
   {
    "name": "CrystamaeHistoria",
    "blobProject": "CrystamaeHistoria-Drake",
    "repo": "CrystamaeHistoria-drake",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "Sefiraat",
-   "status": "published"
+   "status": "published",
+   "category": "Magic & Alchemy",
+   "description": "A magical addon with a semi-technical slimefun feel allowing for the production of spells, gadgets and more.",
+   "version": "1.0.1"
   },
   {
    "name": "Cultivation",
    "blobProject": "Cultivation-Drake",
    "repo": "Cultivation",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "Sefiraat, J3fftw, JustAHuman, ",
-   "status": "published"
+   "status": "published",
+   "category": "Farming, Food & Nature",
+   "description": "Cultivation: farming, food and nature addon for Slimefun 6 on Minecraft 26.2.",
+   "version": "3.3"
   },
   {
    "name": "DankTech2",
    "blobProject": "DankTech2-Drake",
    "repo": "DankTech2-Drake",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "Sefiraat",
-   "status": "published"
+   "status": "published",
+   "category": "Storage & Logistics",
+   "description": "An Addon to Slimefun4 that adds new forms of mass-storage backpacks.",
+   "version": "MODIFIED"
   },
   {
    "name": "DemonicExpansion",
    "blobProject": "DemonicExpansion",
    "repo": "DemonicExpansion",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "Silent",
-   "status": "published"
+   "status": "published",
+   "category": "Combat & Warfare",
+   "description": "Nether Enhancement Addon.",
+   "version": "1.0.0"
   },
   {
    "name": "DiosesDrakes",
    "blobProject": "DiosesDrakes",
    "repo": "DiosesDrakes",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "JackStar",
-   "status": "published"
+   "status": "published",
+   "category": "Utilities & Tweaks",
+   "description": "DiosesDrakes: utilities and tweaks addon for Slimefun 6 on Minecraft 26.2.",
+   "version": "0.6.0"
   },
   {
    "name": "DrakesArcana",
    "blobProject": "DrakesArcana",
    "repo": "ArcanaDrakes",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "",
-   "status": "published"
+   "status": "published",
+   "category": "Drakes Suite",
+   "description": "DrakesArcana: drakes suite addon for Slimefun 6 on Minecraft 26.2.",
+   "version": "0.1.0"
   },
   {
    "name": "DrakesBosses",
    "blobProject": "DrakesBosses",
    "repo": "DrakesBosses",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "",
-   "status": "published"
+   "status": "published",
+   "category": "Drakes Suite",
+   "description": "DrakesBosses: drakes suite addon for Slimefun 6 on Minecraft 26.2.",
+   "version": "1.0.0"
   },
   {
    "name": "DrakesChatBridge",
    "blobProject": "DrakesChatBridge",
    "repo": "Slimefun6",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "",
-   "status": "published"
+   "status": "published",
+   "category": "Drakes Suite",
+   "description": "DrakesChatBridge: drakes suite addon for Slimefun 6 on Minecraft 26.2.",
+   "version": "1.0.0"
   },
   {
    "name": "DrakesCore",
    "blobProject": "DrakesCore",
    "repo": "DrakesCore",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "SlimefunNewHorizons",
-   "status": "published"
+   "status": "published",
+   "category": "Libraries & Core",
+   "description": "DrakesCore: libraries and core addon for Slimefun 6 on Minecraft 26.2.",
+   "version": "2.0.0-26.X-SNAPSHOT"
   },
   {
    "name": "DrakesCrates",
    "blobProject": "DrakesCrates",
    "repo": "DrakesCrates",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "",
-   "status": "published"
+   "status": "published",
+   "category": "Drakes Suite",
+   "description": "DrakesCrates: drakes suite addon for Slimefun 6 on Minecraft 26.2.",
+   "version": "2.0"
   },
   {
    "name": "DrakesMultiverse",
    "blobProject": "DrakesMultiverse",
    "repo": "Drakes-Suites",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "Chagui68",
-   "status": "published"
+   "status": "published",
+   "category": "Multiverse (by Chagui68)",
+   "description": "Suite Multiverse oficial creada por Chagui68 (MultiverseCreatures y MultiverseNets).",
+   "version": "2.0.0-26.X-SNAPSHOT"
   },
   {
    "name": "DrakesRankup",
    "blobProject": "DrakesRankup",
    "repo": "DrakesRankup",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "DrakesCraft-Labs",
-   "status": "published"
+   "status": "published",
+   "category": "Drakes Suite",
+   "description": "DrakesRankup: drakes suite addon for Slimefun 6 on Minecraft 26.2.",
+   "version": "1.0.0"
   },
   {
    "name": "DrakesServer",
    "blobProject": "DrakesServer",
    "repo": "Drakes-Suites",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "SlimefunNewHorizons",
-   "status": "published"
+   "status": "published",
+   "category": "Libraries & Core",
+   "description": "Mega-Suite de Servidor y Gameplay Standalone: Motor Odysseia, Economia y Social.",
+   "version": "2.0.0-26.X-SNAPSHOT"
   },
   {
    "name": "DrakesSlimeMarket",
    "blobProject": "DrakesSlimeMarket",
    "repo": "DrakesSlimeMarket",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "",
-   "status": "published"
+   "status": "published",
+   "category": "Drakes Suite",
+   "description": "DrakesSlimeMarket: drakes suite addon for Slimefun 6 on Minecraft 26.2.",
+   "version": "1.2.0"
   },
   {
    "name": "DrakesTranslate",
    "blobProject": "DrakesTranslate",
    "repo": "DrakesTranslate",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "DrakesCraft-Labs",
-   "status": "published"
+   "status": "published",
+   "category": "Drakes Suite",
+   "description": "DrakesTranslate: drakes suite addon for Slimefun 6 on Minecraft 26.2.",
+   "version": "1.0.0"
   },
   {
    "name": "DrakesVIPPlusPlus",
    "blobProject": "DrakesVIPPlusPlus",
    "repo": "DrakesVIPPlusPlus",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "DrakesCraft-Labs",
-   "status": "published"
+   "status": "published",
+   "category": "Drakes Suite",
+   "description": "Perks activos por rango VIP (15 tiers) + booster de fin de semana. Lee LuckPerms; no toca la entrega Tebex de Odysseia.",
+   "version": "1.0.0"
   },
   {
    "name": "DrakesVotes",
    "blobProject": "DrakesVotes",
    "repo": "Slimefun6",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "",
-   "status": "published"
+   "status": "published",
+   "category": "Drakes Suite",
+   "description": "DrakesVotes: drakes suite addon for Slimefun 6 on Minecraft 26.2.",
+   "version": "1.0.0"
   },
   {
    "name": "Drugfun",
    "blobProject": "Drugfun",
    "repo": "Drugfun",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "Silent",
-   "status": "published"
+   "status": "published",
+   "category": "Farming, Food & Nature",
+   "description": "Drugs addon for Slimefun.",
+   "version": "1.0.0"
   },
   {
    "name": "DyeBench",
    "blobProject": "DyeBench",
    "repo": "DyeBench-drake",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "JasperChaseTOQ",
-   "status": "published"
+   "status": "published",
+   "category": "Storage & Logistics",
+   "description": "DyeBench: storage and logistics addon for Slimefun 6 on Minecraft 26.2.",
+   "version": "UNOFFICIAL"
   },
   {
    "name": "DyedBackpacks",
    "blobProject": "DyedBackpacks",
    "repo": "DyedBackpacks-drake",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "TheBusyBiscuit",
-   "status": "published"
+   "status": "published",
+   "category": "Storage & Logistics",
+   "description": "A Slimefun Addon that adds dyed backpacks.",
+   "version": "1.20.6-Drake-SNAPSHOT"
   },
   {
    "name": "DynaTech",
    "blobProject": "DynaTech-Drake",
    "repo": "DynaTech-drake",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "ProfElements",
-   "status": "published"
+   "status": "published",
+   "category": "Machines & Energy",
+   "description": "A slimefun addon that add random stuff I want.",
+   "version": "1.21-Drake-v7"
   },
   {
    "name": "EcoPower",
    "blobProject": "EcoPower",
    "repo": "EcoPower-drake",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "TheBusyBiscuit",
-   "status": "published"
+   "status": "published",
+   "category": "Machines & Energy",
+   "description": "A Slimefun Addon that focuses on renewable and climate-friendly power generation.",
+   "version": "1.20.6-Universal-26.x-SNAPSHOT"
   },
   {
    "name": "ElectricSpawners",
    "blobProject": "ElectricSpawners",
    "repo": "ElectricSpawners-drake",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "TheBusyBiscuit",
-   "status": "published"
+   "status": "published",
+   "category": "Machines & Energy",
+   "description": "ElectricSpawners: machines and energy addon for Slimefun 6 on Minecraft 26.2.",
+   "version": "1.21.1-Drake"
   },
   {
    "name": "ElementManipulation",
    "blobProject": "ElementManipulation",
    "repo": "Element-Manipulation-drake",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "lucasGithuber",
-   "status": "published"
+   "status": "published",
+   "category": "Magic & Alchemy",
+   "description": "A slimefun addon that adds the capacity to the player to manipulate elements and create new materials.",
+   "version": "1.1.1-UNIVERSAL-26x"
   },
   {
    "name": "EMCTech",
    "blobProject": "EMCTech",
    "repo": "EMCTech-drake",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "Sefiraat",
-   "status": "published"
+   "status": "published",
+   "category": "Machines & Energy",
+   "description": "EMCTech: machines and energy addon for Slimefun 6 on Minecraft 26.2.",
+   "version": "MODIFIED"
   },
   {
    "name": "EquivalencyTech",
    "blobProject": "EquivalencyTech",
    "repo": "EquivalencyTech",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "",
-   "status": "published"
+   "status": "published",
+   "category": "Machines & Energy",
+   "description": "EquivalencyTech: machines and energy addon for Slimefun 6 on Minecraft 26.2.",
+   "version": "modified"
   },
   {
    "name": "ExoticGarden",
    "blobProject": "ExoticGarden",
    "repo": "ExoticGarden-drake",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "TheBusyBiscuit",
-   "status": "published"
+   "status": "published",
+   "category": "Farming, Food & Nature",
+   "description": "A Slimefun Addon that adds new Plants and dishes to the game.",
+   "version": "1.3-UNIVERSAL-26x-SNAPSHOT"
   },
   {
    "name": "ExtraGear",
    "blobProject": "ExtraGear",
    "repo": "ExtraGear-drake",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "TheBusyBiscuit",
-   "status": "published"
+   "status": "published",
+   "category": "Combat & Warfare",
+   "description": "ExtraGear: combat and warfare addon for Slimefun 6 on Minecraft 26.2.",
+   "version": "1.20.6-Drake-SNAPSHOT"
   },
   {
    "name": "ExtraHeads",
    "blobProject": "ExtraHeads-Drake",
    "repo": "ExtraHeads-drake",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "",
-   "status": "published"
+   "status": "published",
+   "category": "Farming, Food & Nature",
+   "description": "ExtraHeads: farming, food and nature addon for Slimefun 6 on Minecraft 26.2.",
+   "version": "11.0-Drake-1.21.1-SNAPSHOT"
   },
   {
    "name": "ExtraTools",
    "blobProject": "ExtraTools",
    "repo": "ExtraTools-drake",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "Sfiguz7",
-   "status": "published"
+   "status": "published",
+   "category": "Machines & Energy",
+   "description": "A Slimefun4-Addon aimed at implementing useful tools.",
+   "version": "1.2"
   },
   {
    "name": "FastMachines",
    "blobProject": "FastMachines-Drake",
    "repo": "FastMachines-drake",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "",
-   "status": "published"
+   "status": "published",
+   "category": "Machines & Energy",
+   "description": "More Slimefun machines that bulk craft items with all shapeless recipes.",
+   "version": "11.0-Drake-1.21.1-SNAPSHOT"
   },
   {
    "name": "FlowerPower",
    "blobProject": "FlowerPower-Drake",
    "repo": "FlowerPower-drake",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "NCBPFluffyBear",
-   "status": "published"
+   "status": "published",
+   "category": "Farming, Food & Nature",
+   "description": "A Slimefun4-Addon that adds more magical options.",
+   "version": "1.0.0"
   },
   {
    "name": "FluffyMachines",
    "blobProject": "FluffyMachines-Drake",
    "repo": "FluffyMachines-drake",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "NCBPFluffyBear",
-   "status": "published"
+   "status": "published",
+   "category": "Machines & Energy",
+   "description": "FluffyMachines: machines and energy addon for Slimefun 6 on Minecraft 26.2.",
+   "version": "1.0.0"
   },
   {
    "name": "FNAmplifications",
    "blobProject": "FNAmplifications-Drake",
    "repo": "FN-FAL-s-Amplifications-drake",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "",
-   "status": "published"
+   "status": "published",
+   "category": "Utilities & Tweaks",
+   "description": "Explore plethora of in-game items from machines, tools, pvp and many more!.",
+   "version": "Unoffical-4.2.4"
   },
   {
    "name": "FoxyMachines",
    "blobProject": "FoxyMachines-Drake",
    "repo": "FoxyMachines-drake",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "GallowsDove, DrakesCraft Labs",
-   "status": "published"
+   "status": "published",
+   "category": "Machines & Energy",
+   "description": "FoxyMachines: machines and energy addon for Slimefun 6 on Minecraft 26.2.",
+   "version": "1.21.11-Drake.1"
   },
   {
    "name": "Galaxyfun",
    "blobProject": "Galaxyfun",
    "repo": "Galaxyfun-drake",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "",
-   "status": "published"
+   "status": "published",
+   "category": "Machines & Energy",
+   "description": "DrakesCraft space expansion for Slimefun.",
+   "version": "11.0-Universal-26.x-Galaxyfun-SNAPSHOT"
   },
   {
    "name": "Gastronomicon",
    "blobProject": "Gastronomicon-Drake",
    "repo": "Gastronomicon-drake",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "SchnTgaiSpock",
-   "status": "published"
+   "status": "published",
+   "category": "Magic & Alchemy",
+   "description": "A Slimefun addon that adds even more food to the game. Works best with ExoticGarden.",
+   "version": "1.21.11-Drake.1-UNIVERSAL-26x-SNAPSHOT"
   },
   {
    "name": "GeneticChickengineering",
    "blobProject": "GeneticChickengineering",
    "repo": "GeneticChickengineering-Reborn-drake",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "kiichan, ybw0014",
-   "status": "published"
+   "status": "published",
+   "category": "Farming, Food & Nature",
+   "description": "An addon for Slimefun that adds resource chickens, rewritten by ybw0014.",
+   "version": "1.1.DEV"
   },
   {
    "name": "GlobiaMachines",
    "blobProject": "GlobiaMachines",
    "repo": "GlobiaMachines",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "Fhoz",
-   "status": "published"
+   "status": "published",
+   "category": "Machines & Energy",
+   "description": "A generic Slimefun4-Addon that adds some custom stuff for the Globia geopol.",
+   "version": "1.0.0"
   },
   {
    "name": "HeadLimiter",
    "blobProject": "HeadLimiter-Drake",
    "repo": "HeadLimiter-drake",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "",
-   "status": "published"
+   "status": "published",
+   "category": "Storage & Logistics",
+   "description": "HeadLimiter: storage and logistics addon for Slimefun 6 on Minecraft 26.2.",
+   "version": "UNOFFICIAL"
   },
   {
    "name": "HotbarPets",
    "blobProject": "HotbarPets",
    "repo": "HotbarPets-drake",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "TheBusyBiscuit",
-   "status": "published"
+   "status": "published",
+   "category": "Farming, Food & Nature",
+   "description": "HotbarPets: farming, food and nature addon for Slimefun 6 on Minecraft 26.2.",
+   "version": "1.20.6-Drake-SNAPSHOT"
   },
   {
    "name": "IDreamOfEasy",
    "blobProject": "IDreamOfEasy-Drake",
    "repo": "IDreamOfEasy",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "Bunnky",
-   "status": "published"
+   "status": "published",
+   "category": "Utilities & Tweaks",
+   "description": "I Dream of Easy is a Slimefun Addon that implements workable community suggestions as well as other random tools and machines.",
+   "version": "DEV"
   },
   {
    "name": "InfernalExpansion",
    "blobProject": "InfernalExpansion",
    "repo": "InfernalExpansion",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "Kiirzu",
-   "status": "published"
+   "status": "published",
+   "category": "Magic & Alchemy",
+   "description": "A Slimefun4 addon that adds a variety of runes and nether-related mechanics.",
+   "version": "1.0"
   },
   {
    "name": "InfinityExpansion",
    "blobProject": "InfinityExpansion",
    "repo": "InfinityExpansion-drake",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "Mooy1",
-   "status": "published"
+   "status": "published",
+   "category": "Machines & Energy",
+   "description": "InfinityExpansion: machines and energy addon for Slimefun 6 on Minecraft 26.2.",
+   "version": "1.20.6-UNIVERSAL-26x-SNAPSHOT"
   },
   {
    "name": "Liquid",
    "blobProject": "Liquid",
    "repo": "Liquid-drake",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "Seggan",
-   "status": "published"
+   "status": "published",
+   "category": "Machines & Energy",
+   "description": "Liquid: machines and energy addon for Slimefun 6 on Minecraft 26.2.",
+   "version": "UNOFFICIAL"
   },
   {
    "name": "LiteXpansion",
    "blobProject": "LiteXpansion-Drake",
    "repo": "LiteXpansion-drake",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "j3fftw",
-   "status": "published"
+   "status": "published",
+   "category": "Machines & Energy",
+   "description": "LiteXpansion: machines and energy addon for Slimefun 6 on Minecraft 26.2.",
+   "version": "1.21-Drake-v2"
   },
   {
    "name": "Magic8Ball",
    "blobProject": "Magic8Ball-Drake",
    "repo": "Magic-8-Ball-drake",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "xMoonGames",
-   "status": "published"
+   "status": "published",
+   "category": "Magic & Alchemy",
+   "description": "The Magic 8 Ball addon brings the classic fortune-telling toy into Minecraft.",
+   "version": "UNOFFICIAL"
   },
   {
    "name": "MagicXpansion",
    "blobProject": "MagicXpansion",
    "repo": "MagicXpansion",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "Apeiros",
-   "status": "published"
+   "status": "published",
+   "category": "Magic & Alchemy",
+   "description": "A Slimefun4 addon that adds more magical items and more talismans.",
+   "version": "0.1.0-UNIVERSAL-26x-SNAPSHOT"
   },
   {
    "name": "MiniBlocks",
    "blobProject": "MiniBlocks",
    "repo": "MiniBlocks-drake",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "EzCoins",
-   "status": "published"
+   "status": "published",
+   "category": "Utilities & Tweaks",
+   "description": "MiniBlocks: utilities and tweaks addon for Slimefun 6 on Minecraft 26.2.",
+   "version": "UNOFFICIAL"
   },
   {
    "name": "MobCapturer",
    "blobProject": "MobCapturer-Drake",
    "repo": "MobCapturer-drake",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "",
-   "status": "published"
+   "status": "published",
+   "category": "Farming, Food & Nature",
+   "description": "MobCapturer: farming, food and nature addon for Slimefun 6 on Minecraft 26.2.",
+   "version": "11.0-Drake-1.21.1-SNAPSHOT"
   },
   {
    "name": "MoreResearches",
    "blobProject": "MoreResearches-Drake",
    "repo": "MoreResearches-drake",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "",
-   "status": "published"
+   "status": "published",
+   "category": "Utilities & Tweaks",
+   "description": "MoreResearches: utilities and tweaks addon for Slimefun 6 on Minecraft 26.2.",
+   "version": "UNOFFICIAL"
   },
   {
    "name": "MultiverseCreatures",
    "blobProject": "MultiverseCreatures",
    "repo": "MultiverseCreatures",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "Chagui68",
-   "status": "published"
+   "status": "published",
+   "category": "Multiverse (by Chagui68)",
+   "description": "A themed creatures and items plugin.",
+   "version": "5.1-RELEASE"
   },
   {
    "name": "MultiverseGambling",
    "blobProject": "MultiverseGambling",
    "repo": "MultiverseGambling",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "Chagui68",
-   "status": "published"
+   "status": "published",
+   "category": "Multiverse (by Chagui68)",
+   "description": "Chance and betting engine (Paper 1.21.11, 26.1 and 26.2) with 22 solo and group minigames, a casino world and in-game English or Spanish.",
+   "version": "1.0.7"
   },
   {
    "name": "MultiverseNets",
    "blobProject": "MultiverseNets",
    "repo": "MultiverseNets",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "Chagui68",
-   "status": "published"
+   "status": "published",
+   "category": "Multiverse (by Chagui68)",
+   "description": "Standalone digital logistics networks and massive storage, no Slimefun.",
+   "version": "6.2"
   },
   {
    "name": "MultiverseProgramming",
    "blobProject": "MultiverseProgramming",
    "repo": "MultiverseProgramming",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "Chagui68",
-   "status": "published"
+   "status": "published",
+   "category": "Multiverse (by Chagui68)",
+   "description": "Programmable computers with Lua, turtles, and blueprints.",
+   "version": "1.2.2"
   },
   {
    "name": "MultiverseTinker",
    "blobProject": "MultiverseTinker",
    "repo": "MultiverseTinker",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "Chagui68",
-   "status": "published"
+   "status": "published",
+   "category": "Multiverse (by Chagui68)",
+   "description": "Modular tools, weapons and armor with exclusive perks and animations per equipment type, geological archaeology, smeltery crucible, alloy co.",
+   "version": "1.2.0"
   },
   {
    "name": "Netheopoiesis",
    "blobProject": "Netheopoiesis-Drake",
    "repo": "Netheopoiesis",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "Sefiraat, J3fftw",
-   "status": "published"
+   "status": "published",
+   "category": "Libraries & Core",
+   "description": "Addon Jam 2022 Entry - Terraform the Nether!.",
+   "version": "MODIFIED"
   },
   {
    "name": "NetworksV6-Drake",
    "blobProject": "NetworksV6-Drake",
    "repo": "NetworksV6-drake",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "",
-   "status": "published"
+   "status": "published",
+   "category": "Storage & Logistics",
+   "description": "Networks V6 ported and stabilized for Drake Labs 1.21.x.",
+   "version": "11-SNAPSHOT"
   },
   {
    "name": "NotEnoughAddons",
    "blobProject": "NotEnoughAddons",
    "repo": "NotEnoughAddons",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "Fhoz",
-   "status": "published"
+   "status": "published",
+   "category": "Utilities & Tweaks",
+   "description": "NotEnoughAddons: utilities and tweaks addon for Slimefun 6 on Minecraft 26.2.",
+   "version": "UNOFFICIAL"
   },
   {
    "name": "Obsidian-Armor",
    "blobProject": "Obsidian-Armor",
    "repo": "Obsidian-Armor",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "JordanG8",
-   "status": "published"
+   "status": "published",
+   "category": "Combat & Warfare",
+   "description": "A Slimefun addon that adds obsidian armor.",
+   "version": "1.0.0"
   },
   {
    "name": "ObsidianExpansion",
    "blobProject": "ObsidianExpansion",
    "repo": "ObsidianExpansion",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "lucasGithuber",
-   "status": "published"
+   "status": "published",
+   "category": "Utilities & Tweaks",
+   "description": "ObsidianExpansion: utilities and tweaks addon for Slimefun 6 on Minecraft 26.2.",
+   "version": "PRIVATE"
   },
   {
    "name": "PotionExpansion",
    "blobProject": "PotionExpansion",
    "repo": "PotionExpansion-drake",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "EpicPlayerA10",
-   "status": "published"
+   "status": "published",
+   "category": "Magic & Alchemy",
+   "description": "An addon for slimefun that adds new potions to the game!.",
+   "version": "1.0.0"
   },
   {
    "name": "PrivateStorage",
    "blobProject": "PrivateStorage",
    "repo": "PrivateStorage",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "",
-   "status": "published"
+   "status": "published",
+   "category": "Storage & Logistics",
+   "description": "PrivateStorage: storage and logistics addon for Slimefun 6 on Minecraft 26.2.",
+   "version": "UNOFFICIAL"
   },
   {
    "name": "Quaptics",
    "blobProject": "Quaptics-Drake",
    "repo": "Quaptics-drake",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "Idra",
-   "status": "published"
+   "status": "published",
+   "category": "Machines & Energy",
+   "description": "Quaptics: machines and energy addon for Slimefun 6 on Minecraft 26.2.",
+   "version": "0"
   },
   {
    "name": "RandomExpansion",
    "blobProject": "RandomExpansion",
    "repo": "RandomExpansion",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "lucasGithuber",
-   "status": "published"
+   "status": "published",
+   "category": "Machines & Energy",
+   "description": "adds random things.",
+   "version": "1.0.0"
   },
   {
    "name": "RelicsOfCthonia",
    "blobProject": "RelicsOfCthonia-Drake",
    "repo": "RelicsOfCthonia-drake",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "",
-   "status": "published"
+   "status": "published",
+   "category": "Combat & Warfare",
+   "description": "My Slimefun addon jam 2022 entry which is based on nether theme.",
+   "version": "1.21.11-Drake.1"
   },
   {
    "name": "RykenSlimeCustomizer",
    "blobProject": "RykenSlimeCustomizer-Drake",
    "repo": "RykenSlimeCustomizer-EN-drake",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "",
-   "status": "published"
+   "status": "published",
+   "category": "Libraries & Core",
+   "description": "An advanced Slimefun customize plugin.",
+   "version": "20"
   },
   {
    "name": "SaneCrafting",
    "blobProject": "SaneCrafting-Drake",
    "repo": "SaneCrafting-drake",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "",
-   "status": "published"
+   "status": "published",
+   "category": "Utilities & Tweaks",
+   "description": "SaneCrafting: utilities and tweaks addon for Slimefun 6 on Minecraft 26.2.",
+   "version": "0.1"
   },
   {
    "name": "SensibleToolbox",
    "blobProject": "SensibleToolbox",
    "repo": "SensibleToolbox-drake",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "",
-   "status": "published"
+   "status": "published",
+   "category": "Machines & Energy",
+   "description": "A collection of generally useful tools and utilites.",
+   "version": "1.22-Drake-SNAPSHOT"
   },
   {
    "name": "SFCalc",
    "blobProject": "SFCalc-Drake",
    "repo": "SFCalc-drake",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "Seggan",
-   "status": "published"
+   "status": "published",
+   "category": "Utilities & Tweaks",
+   "description": "SFCalc: utilities and tweaks addon for Slimefun 6 on Minecraft 26.2.",
+   "version": "1.21-Drake-v1"
   },
   {
    "name": "SfChunkInfo",
    "blobProject": "SfChunkInfo-Drake",
    "repo": "SfChunkInfo-drake",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "",
-   "status": "published"
+   "status": "published",
+   "category": "Utilities & Tweaks",
+   "description": "Scan the amount of Slimefun blocks in a chunk.",
+   "version": "Unoffical-1.11-SNAPSHOT.1"
   },
   {
    "name": "SFMobDrops",
    "blobProject": "SFMobDrops-Drake",
    "repo": "SFMobDrops-drake",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "WalshyDev",
-   "status": "published"
+   "status": "published",
+   "category": "Farming, Food & Nature",
+   "description": "Add random Slimefun mob drops.",
+   "version": "1.20.6-Drake-SNAPSHOT"
   },
   {
    "name": "SFPortalGunsExtension",
    "blobProject": "SFPortalGunsExtension",
    "repo": "SFPortalGuns-Extension",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "DrakesCraft-Labs",
-   "status": "published"
+   "status": "published",
+   "category": "Combat & Warfare",
+   "description": "SFPortalGunsExtension: combat and warfare addon for Slimefun 6 on Minecraft 26.2.",
+   "version": "1.1.0"
   },
   {
    "name": "SimpleMaterialGenerators",
    "blobProject": "SimpleMaterialGenerators",
    "repo": "Slimefun6",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "waleks",
-   "status": "published"
+   "status": "published",
+   "category": "Storage & Logistics",
+   "description": "Simple material generators for Slimefun.",
+   "version": "1.0.0"
   },
   {
    "name": "SimpleStorage",
    "blobProject": "SimpleStorage",
    "repo": "Simple-Storage-drake",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "Sefiraat",
-   "status": "published"
+   "status": "published",
+   "category": "Storage & Logistics",
+   "description": "An addon that gives a suite of new storage options.",
+   "version": "MODIFIED"
   },
   {
    "name": "SimpleUtils",
    "blobProject": "SimpleUtils",
    "repo": "SimpleUtils-drake",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "Mooy1",
-   "status": "published"
+   "status": "published",
+   "category": "Storage & Logistics",
+   "description": "Simple utility items for slimefun.",
+   "version": "MODIFIED"
   },
   {
    "name": "SlimeChem",
    "blobProject": "SlimeChem",
    "repo": "SlimeChem-drake",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "",
-   "status": "published"
+   "status": "published",
+   "category": "Machines & Energy",
+   "description": "slimefun chemistry.",
+   "version": "1.21-Drake-v7"
   },
   {
    "name": "SlimeFrame",
    "blobProject": "SlimeFrame",
    "repo": "SlimeFrame-drake",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "",
-   "status": "published"
+   "status": "published",
+   "category": "Utilities & Tweaks",
+   "description": "A Warframe based Slimefun addon.",
+   "version": "1.7.0"
   },
   {
    "name": "Slimefun-Disc",
    "blobProject": "Slimefun-Disc",
    "repo": "Slimefun-Disc-drake",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "Chagui68, Drakes_Labs",
-   "status": "published"
+   "status": "published",
+   "category": "Utilities & Tweaks",
+   "description": "Custom music discs that play .nbs song files through Slimefun.",
+   "version": "1.5.DEV"
   },
   {
    "name": "SlimefunAdvancements",
    "blobProject": "SlimefunAdvancements-Drake",
    "repo": "SlimefunAdvancements",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "",
-   "status": "published"
+   "status": "published",
+   "category": "Libraries & Core",
+   "description": "SlimefunAdvancements: libraries and core addon for Slimefun 6 on Minecraft 26.2.",
+   "version": "MODIFIED"
   },
   {
    "name": "SlimefunLuckyBlocks",
    "blobProject": "SlimefunLuckyBlocks",
    "repo": "luckyblocks-sf-drake",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "TheBusyBiscuit",
-   "status": "published"
+   "status": "published",
+   "category": "Magic & Alchemy",
+   "description": "SlimefunLuckyBlocks: magic and alchemy addon for Slimefun 6 on Minecraft 26.2.",
+   "version": "11.0-Drake-1.21.1-SNAPSHOT"
   },
   {
    "name": "SlimefunOreChunks",
    "blobProject": "SlimefunOreChunks",
    "repo": "SlimefunOreChunks",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "TheBusyBiscuit",
-   "status": "published"
+   "status": "published",
+   "category": "Utilities & Tweaks",
+   "description": "A Slimefun Addon that adds the various Dusts to the GEO-Miner.",
+   "version": "UNOFFICIAL"
   },
   {
    "name": "SlimefunTranslation",
    "blobProject": "SlimefunTranslation-Drake",
    "repo": "SlimefunTranslation-drake",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "",
-   "status": "published"
+   "status": "published",
+   "category": "Libraries & Core",
+   "description": "A Slimefun Addon that translates items without actually modifying the.",
+   "version": "11.0-Drake-1.21.1-SNAPSHOT"
   },
   {
    "name": "SlimefunWarfare",
    "blobProject": "SlimefunWarfare-Drake",
    "repo": "SlimefunWarfare-Drake",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "",
-   "status": "published"
+   "status": "published",
+   "category": "Combat & Warfare",
+   "description": "SlimefunWarfare: combat and warfare addon for Slimefun 6 on Minecraft 26.2.",
+   "version": "1.0.0-drake"
   },
   {
    "name": "SlimeHUD",
    "blobProject": "SlimeHUD-Drake",
    "repo": "SlimeHUD-drake",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "SchnTgaiSpock",
-   "status": "published"
+   "status": "published",
+   "category": "Utilities & Tweaks",
+   "description": "A utility addon that adds a toggleable WAILA (What Am I Looking At) HUD for placed Slimefun items.",
+   "version": "1.3.1"
   },
   {
    "name": "SlimeTinker",
    "blobProject": "SlimeTinker-Drake",
    "repo": "SlimeTinker-drake",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "Sefiraat, DrakesCraft Labs",
-   "status": "published"
+   "status": "published",
+   "category": "Utilities & Tweaks",
+   "description": "SlimeTinker: utilities and tweaks addon for Slimefun 6 on Minecraft 26.2.",
+   "version": "1.2.1-Drake"
   },
   {
    "name": "SlimyBees",
    "blobProject": "SlimyBees",
    "repo": "SlimyBees",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "martinbrom",
-   "status": "published"
+   "status": "published",
+   "category": "Farming, Food & Nature",
+   "description": "Forestry Bees Inspired Addon for Slimefun 4.",
+   "version": "1.0.0-UNOFFICIAL"
   },
   {
    "name": "SlimyRepair",
    "blobProject": "SlimyRepair-Drake",
    "repo": "SlimyRepair-drake",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "NCBPFluffyBear",
-   "status": "published"
+   "status": "published",
+   "category": "Machines & Energy",
+   "description": "A Slimefun4 addon for repairing Slimefun items.",
+   "version": "1.0.0"
   },
   {
    "name": "SlimyTreeTaps",
    "blobProject": "SlimyTreeTaps",
    "repo": "SlimyTreeTaps-drake",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "TheBusyBiscuit",
-   "status": "published"
+   "status": "published",
+   "category": "Farming, Food & Nature",
+   "description": "A Slimefun4 Addon that adds an alternative way of getting plastic - Through rubber from trees.",
+   "version": "11.0-Universal-26.x-SNAPSHOT"
   },
   {
    "name": "SmallSpace",
    "blobProject": "SmallSpace",
    "repo": "SmallSpace-drake",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "CAPS123987",
-   "status": "published"
+   "status": "published",
+   "category": "Machines & Energy",
+   "description": "A Slimefun4-Addon called SmallSpace.",
+   "version": "MODED"
   },
   {
    "name": "SoulJars",
    "blobProject": "SoulJars",
    "repo": "SoulJars-drake",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "TheBusyBiscuit",
-   "status": "published"
+   "status": "published",
+   "category": "Combat & Warfare",
+   "description": "SoulJars: combat and warfare addon for Slimefun 6 on Minecraft 26.2.",
+   "version": "1.21-Drake-v1"
   },
   {
    "name": "SpiritsUnchained",
    "blobProject": "SpiritsUnchained-Drake",
    "repo": "SpiritsUnchained-drake",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "JustAHuman-xD",
-   "status": "published"
+   "status": "published",
+   "category": "Combat & Warfare",
+   "description": "Spirits Unchained is a Slimefun Addon that introduces Spirits and more to Slimefun4!.",
+   "version": "UNOFFICIAL"
   },
   {
    "name": "Supreme",
    "blobProject": "Supreme-Drake",
    "repo": "Supreme-Drake",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "RelativoBR, Especttra, WilianS",
-   "status": "published"
+   "status": "published",
+   "category": "Combat & Warfare",
+   "description": "Supreme is an addon for Slimefun which adds 100+ various new resources that will allow you to craft powerful new items, weapons, tools and a.",
+   "version": "1.21.11-Drake.1"
   },
   {
    "name": "TranscEndence",
    "blobProject": "TranscEndence-Drake",
    "repo": "TranscEndence-drake",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "sfiguz7",
-   "status": "published"
+   "status": "published",
+   "category": "Magic & Alchemy",
+   "description": "A Slimefun4 Addon for more End content.",
+   "version": "DevTest-33"
   },
   {
    "name": "VillagerTrade",
    "blobProject": "VillagerTrade-Drake",
    "repo": "VillagerTrade-drake",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "",
-   "status": "published"
+   "status": "published",
+   "category": "Utilities & Tweaks",
+   "description": "A Slimefun addon that allow Slimefun items to be added to villager trades.",
+   "version": "UNOFFICIAL"
   },
   {
    "name": "VillagerUtil",
    "blobProject": "VillagerUtil",
    "repo": "VillagerUtil-drake",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "Apeiros",
-   "status": "published"
+   "status": "published",
+   "category": "Utilities & Tweaks",
+   "description": "A small Slimefun4 addon that adds a few convenience features related to villagers.",
+   "version": "MODIFIED"
   },
   {
    "name": "WorldEditSlimefun",
    "blobProject": "WorldEditSlimefun-Drake",
    "repo": "WorldEditSlimefun-drake",
    "branch": "main",
-   "artifact": "",
    "channel": "Release",
    "minecraft": "26.2",
    "author": "",
-   "status": "published"
+   "status": "published",
+   "category": "Utilities & Tweaks",
+   "description": "WorldEditSlimefun: utilities and tweaks addon for Slimefun 6 on Minecraft 26.2.",
+   "version": "UNOFFICIAL"
   },
   {
    "name": "DrakesBio",
@@ -1199,7 +1415,10 @@
    "channel": "Release",
    "minecraft": "26.2",
    "author": "SlimefunNewHorizons",
-   "status": "pending"
+   "status": "pending",
+   "category": "Drakes Suite",
+   "description": "DrakesBio: drakes suite addon for Slimefun 6 on Minecraft 26.2.",
+   "version": ""
   },
   {
    "name": "DrakesCombat",
@@ -1210,7 +1429,10 @@
    "channel": "Release",
    "minecraft": "26.2",
    "author": "SlimefunNewHorizons",
-   "status": "pending"
+   "status": "pending",
+   "category": "Drakes Suite",
+   "description": "DrakesCombat: drakes suite addon for Slimefun 6 on Minecraft 26.2.",
+   "version": ""
   },
   {
    "name": "DrakesGenerators",
@@ -1221,7 +1443,10 @@
    "channel": "Release",
    "minecraft": "26.2",
    "author": "SlimefunNewHorizons",
-   "status": "pending"
+   "status": "pending",
+   "category": "Drakes Suite",
+   "description": "DrakesGenerators: drakes suite addon for Slimefun 6 on Minecraft 26.2.",
+   "version": ""
   },
   {
    "name": "DrakesMagic",
@@ -1232,7 +1457,10 @@
    "channel": "Release",
    "minecraft": "26.2",
    "author": "SlimefunNewHorizons",
-   "status": "pending"
+   "status": "pending",
+   "category": "Drakes Suite",
+   "description": "DrakesMagic: drakes suite addon for Slimefun 6 on Minecraft 26.2.",
+   "version": ""
   },
   {
    "name": "DrakesTech",
@@ -1243,7 +1471,10 @@
    "channel": "Release",
    "minecraft": "26.2",
    "author": "SlimefunNewHorizons",
-   "status": "pending"
+   "status": "pending",
+   "category": "Drakes Suite",
+   "description": "DrakesTech: drakes suite addon for Slimefun 6 on Minecraft 26.2.",
+   "version": ""
   },
   {
    "name": "DrakesUtility",
@@ -1254,7 +1485,10 @@
    "channel": "Release",
    "minecraft": "26.2",
    "author": "SlimefunNewHorizons",
-   "status": "pending"
+   "status": "pending",
+   "category": "Drakes Suite",
+   "description": "DrakesUtility: drakes suite addon for Slimefun 6 on Minecraft 26.2.",
+   "version": ""
   }
  ]
 }
